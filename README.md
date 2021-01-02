@@ -1,4 +1,4 @@
-![gyeongjin kwak](./static/gyeongjin.gif) {: width="100%" height="auto"}
+<img src="./static/gyeongjin.gif" alt="gyeongjin kwak" width="100%" height="auto"/>
 ### Hi there 👋
 
 
