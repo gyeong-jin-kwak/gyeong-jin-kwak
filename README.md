@@ -1,4 +1,4 @@
-!(gyeongjin kwak)[./static/gyeongjin-gif.gif]
+![gyeongjin kwak](./static/gyeongjin-gif.gif)
 ### Hi there 👋
 
 
