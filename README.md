@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/> <br>
 <img src="https://img.shields.io/badge/-React-61DAF8?style=flat-square&logo=React&logoColor=white"/> &nbsp;
-<img src="https://img.shields.io/badge/-styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/-styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> &nbsp;
@@ -18,8 +18,8 @@
 
 <h3 align="center">About me 🚀</h3>
 <p align="center">
-<a href="">
-  <img src="https://img.shields.io/badge/-React-61DAF8?style=flat-square&logo=React&logoColor=white"/>
+<a href="https://velog.io/@gyeong-jin-kwak">
+  <img src="https://camo.githubusercontent.com/a6e7a5715c10d37fae16207330d820f575782602336f3c65134a14333381de5b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656368253230426c6f672d3131423438413f7374796c653d666c61742d737175617265266c6f676f3d56696d656f266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f76656c6f672e696f2f40776f6f305f686f6f6f"/>
 </a>&nbsp;
 </p>
 
