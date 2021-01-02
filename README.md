@@ -1,4 +1,4 @@
-<img src="./static/gyeongjin_.gif" alt="gyeongjin kwak" width="100%" height="auto"/>
+<img src="./static/component_gj.gif" alt="gyeongjin kwak" width="100%" height="auto"/>
 ### Hi there 👋
 
 
