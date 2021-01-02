@@ -1,4 +1,6 @@
+!(gyeongjin kwak)[./static/gyeongjin.gif]
 ### Hi there 👋
+
 
 <!--
 **gyeong-jin-kwak/gyeong-jin-kwak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
