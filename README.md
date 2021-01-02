@@ -1,4 +1,4 @@
-![gyeongjin kwak](./static/gyeongjin.gif){: width="100%" height="auto"}
+![gyeongjin kwak](./static/gyeongjin.gif) {: width="100%" height="auto"}
 ### Hi there 👋
 
 
