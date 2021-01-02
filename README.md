@@ -1,6 +1,9 @@
 <img src="./static/component_gj.gif" alt="gyeongjin kwak" width="100%" height="auto"/>
-### Hi there 👋
-
+<h3 align="center">Tech Stack 🚀</h3>
+<p align="center">Techs that I've used at least once</p>
+<p align="center">
+<img src="https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=HTML5&logoColor=white"/>
+</p>
 
 <!--
 **gyeong-jin-kwak/gyeong-jin-kwak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
