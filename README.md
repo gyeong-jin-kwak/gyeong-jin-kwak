@@ -25,10 +25,13 @@
 
 <br>
 <br>
-<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gyeong-jin-kwak&show_icons=true&theme=tokyonight) -->
-<a href="https://github.com/anuraghazra/github-readme-stats" style="display: block; text-align: center;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gyeong-jin-kwak&show_icons=true&theme=tokyonight">
-</a>
+
+<p align="center">
+  <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gyeong-jin-kwak&show_icons=true&theme=tokyonight) -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gyeong-jin-kwak&show_icons=true&theme=tokyonight">
+  </a>
+</p>
 <!--
 **gyeong-jin-kwak/gyeong-jin-kwak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
