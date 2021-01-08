@@ -16,6 +16,7 @@
 <img src="https://img.shields.io/badge/-Nodemon-76D048?style=flat-square&logo=Nodemon&logoColor=white"/> &nbsp; <br>
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/-Ant%20Design-0170FE?style=flat-square&logo=Ant%20Design&logoColor=white"/> &nbsp;
 </p>
 
 <h3 align="center">About me 🚀</h3>
